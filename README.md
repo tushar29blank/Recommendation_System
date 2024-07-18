@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Recommendation System
 
 This project implements a movie recommendation system based on TF-IDF vectorization and cosine similarity.
 
