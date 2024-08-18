@@ -38,8 +38,4 @@ To use the movie recommendation system, follow these steps:
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-Content based movie recommendation System using tfidf and cosine similiarity
-
-Site-Link : https://recommendation-system-ddr7.onrender.com/
-
-examples you can try : avatar , spectre , spider-man , and 5000 others....
+Content based movie recommendation System using tfidf and cosine similiarity..
